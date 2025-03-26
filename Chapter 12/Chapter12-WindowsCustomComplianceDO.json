@@ -1,0 +1,18 @@
+{
+    "Rules":[ 
+        { 
+           "SettingName":"DeliveryOptimizationActive",
+           "Operator":"IsEquals",
+           "DataType":"Boolean",
+           "Operand":"True",
+           "MoreInfoUrl":"https://orangeava.com/",
+           "RemediationStrings":[ 
+              { 
+                 "Language":"en_US",
+                 "Title":"Delivery Optization is not running on your device.",
+                 "Description": "We required DO to be running in the environment."
+              }
+           ]
+        }
+     ]
+    }
